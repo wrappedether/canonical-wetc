@@ -16,7 +16,7 @@
 pragma solidity >=0.4.22 <0.6;
 
 contract WETC9 {
-    string public name     = "Wrapped Ether Classic";
+    string public name     = "Wrapped Ether";
     string public symbol   = "WETC";
     uint8  public decimals = 18;
 
