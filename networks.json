@@ -3,20 +3,23 @@
     "61": {
       "events": {},
       "links": {},
-      "address": "",
-      "transactionHash": ""
+      "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
+      "transactionHash": "0x9bb5a4821e6685a6f33e7464cf16b149f69c75c8ba8dde4c1dc134c095e2259e",
+      "solc": "0.5.16"
     },
     "6": {
       "events": {},
       "links": {},
-      "address": "",
-      "transactionHash": ""
+      "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
+      "transactionHash": "0x63f19a014d7ae8d1ca9e6c379edc38bdc06e3ab6833cc88bdf2c9985ad048891",
+      "solc": "0.5.16"
     },
     "63": {
       "events": {},
       "links": {},
-      "address": "",
-      "transactionHash": ""
+      "address": "0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a",
+      "transactionHash": "0x895b9b415c37952b28398e0615a1e5eb8d3b3042ca36a89f46aff93c5aea212d",
+      "solc": "0.5.16"
     }
   }
 }
