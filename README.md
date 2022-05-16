@@ -2,7 +2,7 @@
 
 ## Canonical [W-ETC](https://wrappedether.org/) package.
 
-Inspiration from Canonical [W-ETH](https://weth.io/) package. See: https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
+Inspiration from Canonical [W-ETH](https://weth.io/) package. See: https://blog.0xproject.com/canonical-weth-a9aa7d0279dd
 
 ## Usage
 
